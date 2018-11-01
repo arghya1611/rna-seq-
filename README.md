@@ -1,4 +1,5 @@
 # Differential expression analysis with edgeR
+#Contributed by jdblischak @ GitGists
 
 This is a tutorial I have presented for the class Genomics and Systems Biology at the University of Chicago.
 In this course the students learn about study design, normalization, and statistical testing for genomic studies.
